@@ -1,0 +1,31 @@
+#container{
+    width:1423px;
+    height:3506px;
+    background-color: aquamarine;
+}
+a{
+    font-family: '微软雅黑', Arial;
+    font-size: 14px;
+    color: #000;
+}
+#top{
+    width:100%;
+    height:100px;
+    background-color:white;
+    border-bottom: 1px solid rgb(230,33,41);
+}
+#top0{
+    width: 902px;
+    margin: auto;
+}
+#top1{
+    float: left;
+}
+#top2{
+    height:100px;
+    float: right;
+}
+#top2 a{
+    line-height: 100px;
+    margin-left: 20px;
+}
