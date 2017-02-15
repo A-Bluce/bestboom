@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c26c7ac-b288-4fcf-ba1f-25d127b0b1bc" name="Default" comment="去掉那一行">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newtianjie.css" />
+    <list default="true" id="2c26c7ac-b288-4fcf-ba1f-25d127b0b1bc" name="Default" comment="第三次提交">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/address.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dianhua.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/erweima.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jianjie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/kehu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/peixun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/qq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weixin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/xin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/xinwen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zixun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner-a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner-b.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="$PROJECT_DIR$/images/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.jpg" afterPath="$PROJECT_DIR$/images/logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newtianjie.css" afterPath="$PROJECT_DIR$/newtianjie.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newtianjie.html" afterPath="$PROJECT_DIR$/newtianjie.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logo.jpg" afterPath="$PROJECT_DIR$/images/logo.jpg" />
     </list>
     <ignored path="bestboom.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,6 +39,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -26,12 +48,44 @@
     <favorites_list name="bestboom" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="newtianjie.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newtianjie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="168">
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4007#4013#0" expanded="true" />
+                <element signature="e#4027#4033#0" expanded="true" />
+                <element signature="e#4033#4039#0" expanded="true" />
+                <element signature="e#4039#4045#0" expanded="true" />
+                <element signature="e#4045#4051#0" expanded="true" />
+                <element signature="e#4098#4104#0" expanded="true" />
+                <element signature="e#4112#4118#0" expanded="true" />
+                <element signature="e#4118#4124#0" expanded="true" />
+                <element signature="e#4124#4130#0" expanded="true" />
+                <element signature="e#4130#4136#0" expanded="true" />
+                <element signature="e#4137#4143#0" expanded="true" />
+                <element signature="e#4157#4163#0" expanded="true" />
+                <element signature="e#4163#4169#0" expanded="true" />
+                <element signature="e#4169#4175#0" expanded="true" />
+                <element signature="e#4175#4181#0" expanded="true" />
+                <element signature="e#4182#4188#0" expanded="true" />
+                <element signature="e#5634#5640#0" expanded="true" />
+                <element signature="e#5641#5647#0" expanded="true" />
+                <element signature="e#5651#5657#0" expanded="true" />
+                <element signature="e#5672#5678#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -40,8 +94,8 @@
       <file leaf-file-name="newtianjie.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newtianjie.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="-10">
+              <caret line="339" column="14" selection-start-line="339" selection-start-column="14" selection-end-line="339" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -56,8 +110,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/newtianjie.css" />
         <option value="$PROJECT_DIR$/newtianjie.html" />
+        <option value="$PROJECT_DIR$/newtianjie.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -70,7 +125,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1452" />
+    <option name="width" value="1456" />
     <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -98,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -108,31 +162,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bestboom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bestboom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="D:/Photoshop/Git/bin/git.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\git\bestboom\images" />
-    </key>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -144,7 +184,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486715565625</updated>
-      <workItem from="1486715566846" duration="1924000" />
+      <workItem from="1486715566846" duration="3165000" />
+      <workItem from="1486965874614" duration="734000" />
+      <workItem from="1487038329787" duration="1551000" />
+      <workItem from="1487042295054" duration="38384000" />
+      <workItem from="1487127136448" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="去掉那一行">
       <created>1486715800201</created>
@@ -153,30 +197,38 @@
       <option name="project" value="LOCAL" />
       <updated>1486715800201</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改了css">
+      <created>1486719127325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1486719127325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1924000" />
+    <option name="totallyTimeSpent" value="45121000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1452" height="886" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22057787" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46480745" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -194,13 +246,121 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="去掉那一行" />
-    <option name="LAST_COMMIT_MESSAGE" value="去掉那一行" />
+    <MESSAGE value="修改了css" />
+    <MESSAGE value="第三次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/newtianjie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3920">
+          <caret line="140" column="30" selection-start-line="140" selection-start-column="30" selection-end-line="140" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4027#4033#0" expanded="true" />
+            <element signature="e#4033#4039#0" expanded="true" />
+            <element signature="e#4039#4045#0" expanded="true" />
+            <element signature="e#4045#4051#0" expanded="true" />
+            <element signature="e#4098#4104#0" expanded="true" />
+            <element signature="e#4112#4118#0" expanded="true" />
+            <element signature="e#4118#4124#0" expanded="true" />
+            <element signature="e#4124#4130#0" expanded="true" />
+            <element signature="e#4130#4136#0" expanded="true" />
+            <element signature="e#4137#4143#0" expanded="true" />
+            <element signature="e#4157#4163#0" expanded="true" />
+            <element signature="e#4163#4169#0" expanded="true" />
+            <element signature="e#4169#4175#0" expanded="true" />
+            <element signature="e#4175#4181#0" expanded="true" />
+            <element signature="e#4182#4188#0" expanded="true" />
+            <element signature="e#5634#5640#0" expanded="true" />
+            <element signature="e#5641#5647#0" expanded="true" />
+            <element signature="e#5651#5657#0" expanded="true" />
+            <element signature="e#5672#5678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtianjie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtianjie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4027#4033#0" expanded="true" />
+            <element signature="e#4033#4039#0" expanded="true" />
+            <element signature="e#4039#4045#0" expanded="true" />
+            <element signature="e#4045#4051#0" expanded="true" />
+            <element signature="e#4098#4104#0" expanded="true" />
+            <element signature="e#4112#4118#0" expanded="true" />
+            <element signature="e#4118#4124#0" expanded="true" />
+            <element signature="e#4124#4130#0" expanded="true" />
+            <element signature="e#4130#4136#0" expanded="true" />
+            <element signature="e#4137#4143#0" expanded="true" />
+            <element signature="e#4157#4163#0" expanded="true" />
+            <element signature="e#4163#4169#0" expanded="true" />
+            <element signature="e#4169#4175#0" expanded="true" />
+            <element signature="e#4175#4181#0" expanded="true" />
+            <element signature="e#4182#4188#0" expanded="true" />
+            <element signature="e#5634#5640#0" expanded="true" />
+            <element signature="e#5641#5647#0" expanded="true" />
+            <element signature="e#5651#5657#0" expanded="true" />
+            <element signature="e#5672#5678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtianjie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtianjie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4027#4033#0" expanded="true" />
+            <element signature="e#4033#4039#0" expanded="true" />
+            <element signature="e#4039#4045#0" expanded="true" />
+            <element signature="e#4045#4051#0" expanded="true" />
+            <element signature="e#4098#4104#0" expanded="true" />
+            <element signature="e#4112#4118#0" expanded="true" />
+            <element signature="e#4118#4124#0" expanded="true" />
+            <element signature="e#4124#4130#0" expanded="true" />
+            <element signature="e#4130#4136#0" expanded="true" />
+            <element signature="e#4137#4143#0" expanded="true" />
+            <element signature="e#4157#4163#0" expanded="true" />
+            <element signature="e#4163#4169#0" expanded="true" />
+            <element signature="e#4169#4175#0" expanded="true" />
+            <element signature="e#4175#4181#0" expanded="true" />
+            <element signature="e#4182#4188#0" expanded="true" />
+            <element signature="e#5634#5640#0" expanded="true" />
+            <element signature="e#5641#5647#0" expanded="true" />
+            <element signature="e#5651#5657#0" expanded="true" />
+            <element signature="e#5672#5678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/newtianjie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -211,9 +371,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newtianjie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4027#4033#0" expanded="true" />
+            <element signature="e#4033#4039#0" expanded="true" />
+            <element signature="e#4039#4045#0" expanded="true" />
+            <element signature="e#4045#4051#0" expanded="true" />
+            <element signature="e#4098#4104#0" expanded="true" />
+            <element signature="e#4112#4118#0" expanded="true" />
+            <element signature="e#4118#4124#0" expanded="true" />
+            <element signature="e#4124#4130#0" expanded="true" />
+            <element signature="e#4130#4136#0" expanded="true" />
+            <element signature="e#4137#4143#0" expanded="true" />
+            <element signature="e#4157#4163#0" expanded="true" />
+            <element signature="e#4163#4169#0" expanded="true" />
+            <element signature="e#4169#4175#0" expanded="true" />
+            <element signature="e#4175#4181#0" expanded="true" />
+            <element signature="e#4182#4188#0" expanded="true" />
+            <element signature="e#5634#5640#0" expanded="true" />
+            <element signature="e#5641#5647#0" expanded="true" />
+            <element signature="e#5651#5657#0" expanded="true" />
+            <element signature="e#5672#5678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtianjie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="228" column="16" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtianjie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="339" column="14" selection-start-line="339" selection-start-column="14" selection-end-line="339" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtianjie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4027#4033#0" expanded="true" />
+            <element signature="e#4033#4039#0" expanded="true" />
+            <element signature="e#4039#4045#0" expanded="true" />
+            <element signature="e#4045#4051#0" expanded="true" />
+            <element signature="e#4098#4104#0" expanded="true" />
+            <element signature="e#4112#4118#0" expanded="true" />
+            <element signature="e#4118#4124#0" expanded="true" />
+            <element signature="e#4124#4130#0" expanded="true" />
+            <element signature="e#4130#4136#0" expanded="true" />
+            <element signature="e#4137#4143#0" expanded="true" />
+            <element signature="e#4157#4163#0" expanded="true" />
+            <element signature="e#4163#4169#0" expanded="true" />
+            <element signature="e#4169#4175#0" expanded="true" />
+            <element signature="e#4175#4181#0" expanded="true" />
+            <element signature="e#4182#4188#0" expanded="true" />
+            <element signature="e#5634#5640#0" expanded="true" />
+            <element signature="e#5641#5647#0" expanded="true" />
+            <element signature="e#5651#5657#0" expanded="true" />
+            <element signature="e#5672#5678#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
