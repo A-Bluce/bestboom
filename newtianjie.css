@@ -76,7 +76,7 @@
     color: rgb(194,194,194);
 }
 #px{
-    width:132px;
+    width:133px;
     height:67px;
     margin:0 auto 20px ;
     border-bottom: 1px solid rgb(207,27,37);
@@ -88,6 +88,7 @@
     text-align: center;
 }
 .tc{
+
     font-family: '微软雅黑', Arial;
     font-size: 18px;
     color: rgb(167,167,167);
@@ -171,7 +172,7 @@
     color: rgb(194,194,194);
 }
 #zx{
-    width:167px;
+    width: 170px;px;
     height:67px;
     margin:0 auto 20px ;
     background: url("images/pb.jpg");
@@ -383,7 +384,7 @@
 }
 #kfxf{
     margin-left: 202px;
-    width:94px;
+    width:100px;
     text-align: center;
 }
 .k1{
